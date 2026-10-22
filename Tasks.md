@@ -10,7 +10,7 @@
 
 ## 1.2 Business impact assessment
 
-> BIA: Ownership, users, resources and dependencies
+### BIA: Ownership, users, resources and dependencies
 | Function | Owners role | Affected users | Critical resources and dependencies |
 | :---- | :---: | :---- | :---- |
 | F1: Teaching and assessment | Head of Academics, supported by the Examinations Officer and Assessment Coordinator | 1,800 learners, teaching staff and 120 examination candidates. | LMS01, DB01, exam papers, learner accounts, invigilators, network, AUTH01 and alternate premises. Microsoft 365 and mobile internet support the proposed temporary arrangement. |
@@ -19,7 +19,7 @@
 | F4: Staff payroll | HR Manager, supported by the Finance Manager | 90 staff | HR01, DB01, last approved payroll records, HR and finance officers, network, AUTH01 and bank submission process. |
 | F5: Records and certificates | Records Officer, accountable to the Registrar | Learners, alumni and registry staff. | FS01, stored records, access lists, request logs, network, AUTH01 and authorised records staff. |
 
-> BIA: Impacts, minimum service and business priority
+### BIA: Impacts, minimum service and business priority
 | Function | Impact over time | Minimum acceptable service and controls | Priority |
 | :---- | :---: | :---- | :---- |
 | F1 | Examination begins at 11:00. If it cannot proceed acceptably, rescheduling costs ₦120,000. Further disruption increases teaching delays, assessment backlogs and complaints. Rate: ₦60,000/hour. | Provide the assessment through an approved, secure arrangement. The 80 learners using their own devices may access the service through Microsoft 365 if validated. Only 25 of the 40 learners requiring centre workstations can be accommodated at once; arrange additional approved workstations or an authorised alternative for the remaining 15. Maintain identity checks, invigilation, submission logs and controlled release of examination papers. | 1 |
