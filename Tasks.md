@@ -9,9 +9,9 @@
 > At 08:00 WAT on Day 0, flooding and power failure make the main site and local systems unavailable for 72 hours. Microsoft 365 remains accessible through mobile internet, but local applications depend on AUTH01. An alternate facility offers 25 workstations from 10:00, and two technicians are available for recovery.
 
 ## 1.2 Business impact assessment
-| Evidence | Time WAT | Confirmed observation | Working hypothesis or unresolved question |
+| Function and owner | Users and critical resources | Dependencies | Impact and minimum acceptable service |
 | :---- | :---: | :---- | :---- |
-| E01 | Day -1, 16:40 | A finance officer opened an unexpected payroll attachment on FIN-PC07. | The payroll attachment may have introduced malware, but the malicious code execution is yet to be verified. |
+| F1 Teaching and assessment | Academic and Assessment Coordinator | Day -1, 16:40 | A finance officer opened an unexpected payroll attachment on FIN-PC07. | The payroll attachment may have introduced malware, but the malicious code execution is yet to be verified. |
 | E02 | Day 0, 01:15 | The finance officer account signed in from an unfamiliar IP and new device. | The account may have been compromised, but the MFA status and the user involvement is yet to be known. |
 | E03 | Day 0, 01:35 | The `svc_backup` made remote administrator logons to FS01 and BAK01 outside its usual schedule. | The admin account may have been misused to access backups and file server. |
 | E04 | Day 0, 01:50 | FIN-PC07 uploaded 1.2 GB over HTTPS to unfamiliar cloud storage. | This could be data exfiltration, but the uploaded contents are currently unknown. |
