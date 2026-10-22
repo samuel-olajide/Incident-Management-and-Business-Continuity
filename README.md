@@ -40,11 +40,11 @@ Microsoft 365 identity and email remain available through mobile internet. Local
 
 | Function and local systems | Operational constraint and impact | NGN per hour |
 | :---- | :---- | :---: |
-| F1  Teaching and assessmentLMS01 and DB01 | The examination starts at 11:00. If no acceptable assessment service is available by then, add a one-off rescheduling cost of NGN 120,000. Learner access and assessment integrity matter. | 60,000 |
-| F2  Fees and financeFIN01 and DB01 | Fee confirmation is due by 16:00 on Day 0\. The external payment provider remains available, but local receipts and wallet records cannot be updated. Reconciliation is necessary. | 40,000 |
-| F3  Admissions and registrationREG01 and DB01 | Admissions close at 18:00 on Day 0\. New applications and registration changes cannot be entered into the local system. | 20,000 |
-| F4  Staff payrollHR01 and DB01 | The bank submission deadline is 12:00 on Day 1\. Incorrect or duplicate payroll instructions could affect staff and require manual correction. | 10,000 |
-| F5  Records and certificatesFS01 | Certificate and record requests have a 48-hour internal service commitment. Files must retain integrity and access restrictions. | 5,000 |
+| F1  Teaching and assessment LMS01 and DB01 | The examination starts at 11:00. If no acceptable assessment service is available by then, add a one-off rescheduling cost of NGN 120,000. Learner access and assessment integrity matter. | 60,000 |
+| F2  Fees and finance FIN01 and DB01 | Fee confirmation is due by 16:00 on Day 0. The external payment provider remains available, but local receipts and wallet records cannot be updated. Reconciliation is necessary. | 40,000 |
+| F3  Admissions and registration REG01 and DB01 | Admissions close at 18:00 on Day 0. New applications and registration changes cannot be entered into the local system. | 20,000 |
+| F4  Staff payroll HR01 and DB01 | The bank submission deadline is 12:00 on Day 1. Incorrect or duplicate payroll instructions could affect staff and require manual correction. | 10,000 |
+| F5  Records and certificates FS01 | Certificate and record requests have a 48-hour internal service commitment. Files must retain integrity and access restrictions. | 5,000 |
 
 For Task 1, treat the hourly amounts as separate, non-overlapping incremental disruption costs. Apply them for the first 24 hours and add the examination rescheduling cost once when its trigger is met. Calculate the 8-hour and 24-hour impact assuming no recovery or continuity measures. These are exercise estimates, not observed losses.
 
@@ -179,12 +179,12 @@ The maximum score is 100\. The assignment contributes 30% of the final course gr
 
 | Assessment area | Mark allocation and evidence expected | Marks |
 | :---- | :---- | :---: |
-| Task 1Business impact | Complete BIA and minimum-service requirements (6); correct, explained impact calculations (8); justified priorities and dependency risks (6). | 20 |
-| Task 2Objectives and backups | Justified RTO, RPO, and MTD targets (5); correct checkpoint analysis and objective gaps (6); usable backup design and verification (4). | 15 |
-| Task 3Strategy and cost | Accurate comparison of options (4); complete budget arithmetic (5); defensible choice, residual risks, and investment reasoning (6). | 15 |
-| Task 4Coordinated plans | Activation, roles, and RACI (5); workable temporary business procedures (7); DR sequence, validation, communication, and controlled return (8). | 20 |
-| Task 5Testing and validation | Feasible schedule, critical dependency path, and objective comparisons (7); reasoned responses to all injects (4); measurable corrective actions (4). | 15 |
-| Task 6Governance and KPIs | Ownership, testing, framework mapping, and maintenance (5); measurable KPIs (3); justified maturity assessment and improvement target (2). | 10 |
+| Task 1 Business impact | Complete BIA and minimum-service requirements (6); correct, explained impact calculations (8); justified priorities and dependency risks (6). | 20 |
+| Task 2 Objectives and backups | Justified RTO, RPO, and MTD targets (5); correct checkpoint analysis and objective gaps (6); usable backup design and verification (4). | 15 |
+| Task 3 Strategy and cost | Accurate comparison of options (4); complete budget arithmetic (5); defensible choice, residual risks, and investment reasoning (6). | 15 |
+| Task 4 Coordinated plans | Activation, roles, and RACI (5); workable temporary business procedures (7); DR sequence, validation, communication, and controlled return (8). | 20 |
+| Task 5 Testing and validation | Feasible schedule, critical dependency path, and objective comparisons (7); reasoned responses to all injects (4); measurable corrective actions (4). | 15 |
+| Task 6 Governance and KPIs | Ownership, testing, framework mapping, and maintenance (5); measurable KPIs (3); justified maturity assessment and improvement target (2). | 10 |
 | Report qualityand referencing | Clear structure and usable tables (2); credible sources and consistent citations (2); transparent assumptions and professional writing (1). | 5 |
 | Total | Maximum course contribution: 30%. | 100 |
 
